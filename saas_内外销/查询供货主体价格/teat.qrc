@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="新前缀">
+    <file>01.png</file>
+    <file>02.jpg</file>
+  </qresource>
+</RCC>
